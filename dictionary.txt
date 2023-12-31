@@ -20,7 +20,7 @@ def translate(word):
             return("pugger your paw steps on working keys ")
         else:
             return("You have entered wrong input please enter just y or n")    
-        else:
+    else:
         print("You have entered wrong keys. Try again")
         
 
